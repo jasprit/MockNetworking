@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MockNetworking</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome_to_firely">Welcome to Firefly!</string>
+    <string name="error_username">username is required</string>
+    <string name="error_password">password is required</string>
+    <string name="error_internet_connection">Error: Internet disconnected</string>
+    <string name="username_digit_error">username should contain 1 digit</string>
+    <string name="password_digit_error">password should contain 1 digit</string>
+</resources>
